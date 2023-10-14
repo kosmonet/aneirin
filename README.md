@@ -1,2 +1,3 @@
-# aneirin
-game module for the argon roguelike engine
+# Aneirin
+## Description
+Game module for the argon roguelike engine.
