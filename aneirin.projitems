@@ -9,5 +9,9 @@
     <Import_RootNamespace>aneirin</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)creatures\rat.json" />
+    <Content Include="$(MSBuildThisFileDirectory)images\credits.txt" />
+    <Content Include="$(MSBuildThisFileDirectory)items\dagger.json" />
+    <Content Include="$(MSBuildThisFileDirectory)items\sword.json" />
   </ItemGroup>
 </Project>
