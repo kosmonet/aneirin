@@ -1,1 +1,6 @@
-﻿
+﻿{
+  "id": "rat",
+  "kind": "creature",
+  "name": "grey rat",
+  "image": "rat.gif"
+}

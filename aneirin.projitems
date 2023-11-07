@@ -11,7 +11,17 @@
   <ItemGroup>
     <Content Include="$(MSBuildThisFileDirectory)creatures\rat.json" />
     <Content Include="$(MSBuildThisFileDirectory)images\credits.txt" />
+    <Content Include="$(MSBuildThisFileDirectory)items\bottle.json" />
     <Content Include="$(MSBuildThisFileDirectory)items\dagger.json" />
     <Content Include="$(MSBuildThisFileDirectory)items\sword.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)maps\" />
+    <Folder Include="$(MSBuildThisFileDirectory)dialog\" />
+    <Folder Include="$(MSBuildThisFileDirectory)texts\" />
+    <Folder Include="$(MSBuildThisFileDirectory)scripts\" />
+    <Folder Include="$(MSBuildThisFileDirectory)spells\" />
+    <Folder Include="$(MSBuildThisFileDirectory)quests\" />
+    <Folder Include="$(MSBuildThisFileDirectory)terrain\" />
   </ItemGroup>
 </Project>
