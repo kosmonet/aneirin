@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <module id="aneirin">
-  <title>Aneirin</title>
-  <subtitle>Tales from the Orrery</subtitle>
+	<title>Aneirin</title>
+	<subtitle>Tales from the Orrery</subtitle>
+	<description>A module taking place on the island Aneirin.</description>
 </module>

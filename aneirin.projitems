@@ -16,8 +16,8 @@
     <Content Include="$(MSBuildThisFileDirectory)items\sword.json" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="$(MSBuildThisFileDirectory)maps\" />
     <Folder Include="$(MSBuildThisFileDirectory)dialog\" />
+    <Folder Include="$(MSBuildThisFileDirectory)maps\" />
     <Folder Include="$(MSBuildThisFileDirectory)texts\" />
     <Folder Include="$(MSBuildThisFileDirectory)scripts\" />
     <Folder Include="$(MSBuildThisFileDirectory)spells\" />
